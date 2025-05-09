@@ -89,7 +89,7 @@ def buffer_keystroke(key_char):
             else:
                 keystroke_buffer.append(f"[{key_char}]")
     
-    # Check for END sequence
+    # Check for the END sequence
     check_end_sequence()
     
     # Check if it's time to write to file (every 10 seconds)

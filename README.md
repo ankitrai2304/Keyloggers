@@ -12,7 +12,7 @@ This project is a **terminal-based keylogger** written in Python, intended for *
 
 - ✅ Logs terminal keystrokes into a text file (`keystrokes.txt`)
 - ✅ No external libraries required
-- ✅ UNIX-based terminal compatibility (macOS, Linux)
+- ✅ UNIX-based terminal compatibility (macOS, Linux , Windows)
 - ✅ Detects `END` sequence to stop logging
 - ✅ Handles printable characters, Enter, Backspace, Tab
 - ✅ Periodically writes logs every 10 seconds

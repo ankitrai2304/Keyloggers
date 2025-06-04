@@ -1,0 +1,7 @@
+=== Terminal Keylogger Started 2025-06-04 05:05:29 ===
+2025-06-04 05:05:39: hhell0 
+2025-06-04 05:05:49: 4578cvv
+2025-06-04 05:07:59: EN
+2025-06-04 05:08:00: D
+2025-06-04 05:08:00: [INFO] Keylogger stopped
+2025-06-04 05:08:00: [INFO] Keylogger stopped

@@ -210,11 +210,9 @@ def on_press(key):
         return False  # Stop listener
 
     try:
-        # Regular character
         key_char = key.char
         buffer_keystroke(key_char)
     except AttributeError:
-        # Special key
         key_name = str(key).replace("Key.", "")
         if key == keyboard.Key.space:
             buffer_keystroke("SPACE")
@@ -229,10 +227,6 @@ def on_press(key):
 
     return running  # Continue if running is True
 
-
-# ----------------------------
-# Terminal fallback
-# ----------------------------
 
 def get_char():
     """Get a single character from standard input."""
